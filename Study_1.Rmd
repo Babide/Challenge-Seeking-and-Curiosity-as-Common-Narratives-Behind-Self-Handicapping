@@ -23,7 +23,7 @@ library(haven)
 
 #Loading the data file
 ```{r}
-d <- read_sav("/Users/toroklilla/Dropbox/Mac/Desktop/Study_1.sav")
+d <- read_sav("/Users/Dropbox/Mac/Desktop/Study_1.sav")
 ```
 
 #Preparing and checking variables before analyses
